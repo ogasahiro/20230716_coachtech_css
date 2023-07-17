@@ -6,33 +6,43 @@ h1{
 
 
 
-nav ul li {
+ul {
     text-align: right;
+}
+
+li {
     display: inline;
     color: blue;
 }
 
 
 h2{
+    position: relative;
+    top: 280px;
     font-size:6ex;
+
+}
+
+p{
+    position: relative;
+    top: 250px;
 }
 
 
-
 p {
-    position:relative;
-    bottom:50px;
-    width: 1000px;
-    height: 200px;
+    width: 700px;
+    height: 150px;
     background-color: blue;
 }
 
 img{
-    position:absolute;
-    bottom:100px;
-    right:200px;
-    width: 700px;
-    height: 550px;
+    position: absolute;
+    bottom:150px;
+    left:510px;
+}
+img{
+    width: 500px;
+    height: 450px;
 }
 
 
