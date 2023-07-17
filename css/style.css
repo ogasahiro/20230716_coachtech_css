@@ -1,0 +1,38 @@
+h1{
+    font-size: 2ex;
+    color:blue;
+
+}
+
+
+
+nav ul li {
+    text-align: right;
+    display: inline;
+    color: blue;
+}
+
+
+h2{
+    font-size:6ex;
+}
+
+
+
+p {
+    position:relative;
+    bottom:50px;
+    width: 1000px;
+    height: 200px;
+    background-color: blue;
+}
+
+img{
+    position:absolute;
+    bottom:100px;
+    right:200px;
+    width: 700px;
+    height: 550px;
+}
+
+
