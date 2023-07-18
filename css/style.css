@@ -1,4 +1,4 @@
-h1{
+.title{
     font-size: 2ex;
     color:blue;
 
@@ -6,41 +6,41 @@ h1{
 
 
 
-ul {
+.nav-list {
     text-align: right;
 }
 
-li {
+.nav-item {
     display: inline;
     color: blue;
 }
 
 
-h2{
+.title2{
     position: relative;
     top: 680px;
     font-size:6ex;
 
 }
 
-p{
+.box{
     position: relative;
     top: 650px;
 }
 
 
-p {
+.box {
     width: 1200px;
     height: 250px;
     background-color: blue;
 }
 
-img{
+.photo{
     position: absolute;
     bottom:20px;
     left:600px;
 }
-img{
+.photo{
     width: 900px;
     height: 680px;
 }
