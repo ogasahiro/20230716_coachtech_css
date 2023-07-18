@@ -18,31 +18,31 @@ li {
 
 h2{
     position: relative;
-    top: 280px;
+    top: 680px;
     font-size:6ex;
 
 }
 
 p{
     position: relative;
-    top: 250px;
+    top: 650px;
 }
 
 
 p {
-    width: 700px;
-    height: 150px;
+    width: 1200px;
+    height: 250px;
     background-color: blue;
 }
 
 img{
     position: absolute;
-    bottom:150px;
-    left:510px;
+    bottom:20px;
+    left:600px;
 }
 img{
-    width: 500px;
-    height: 450px;
+    width: 900px;
+    height: 680px;
 }
 
 
