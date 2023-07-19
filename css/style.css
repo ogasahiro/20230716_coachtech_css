@@ -24,7 +24,8 @@
 
 .box{
     position: relative;
-    bottom: 0;
+    left:0;
+    bottom:0;
     width: 75vw;
     height: 30vh;
     background-color: blue;
@@ -34,9 +35,9 @@
 .photo{
     position: absolute;
     right: 0;
-    bottom:15vw;
-    width: 66%;
-    height: 200%;
+    bottom:400px;
+    width: auto;
+    height: auto;
 }
 
 
