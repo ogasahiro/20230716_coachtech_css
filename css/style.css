@@ -1,12 +1,24 @@
+.header{
+    display:flex;
+    position: relative;
+}
+
 .title{
+    position: absolute;
     font-size: 3.5ex;
-    color:blue;
+    color:blue
 
 }
 
 
 
+
+
+
+
 .nav-list {
+    position: absolute;
+    right:0;
     text-align: right;
 }
 
@@ -21,7 +33,7 @@
 
 .title2{
     position: absolute;
-    top:250px;
+    top:300px;
     font-size:6ex;
 
 }
@@ -29,7 +41,7 @@
 .box{
     position: absolute;
     left:0;
-    top: 350px;
+    top: 400px;
     width: 75vw;
     height: 30vh;
     background-color: blue;
@@ -39,7 +51,7 @@
 .photo{
     position: absolute;
     right: 0;
-    top:50px;
+    top:100px;
     width: 50vw;
     height: 60vh;
 }
