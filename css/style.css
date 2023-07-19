@@ -15,17 +15,21 @@
     color: blue;
 }
 
+.main{
+    position:relative;
+    }
 
 .title2{
-    bottom: 680px;
+    position: absolute;
+    top:250px;
     font-size:6ex;
 
 }
 
 .box{
-    position: relative;
+    position: absolute;
     left:0;
-    bottom:0;
+    top: 350px;
     width: 75vw;
     height: 30vh;
     background-color: blue;
@@ -35,9 +39,9 @@
 .photo{
     position: absolute;
     right: 0;
-    bottom:400px;
-    width: auto;
-    height: auto;
+    top:50px;
+    width: 50vw;
+    height: 60vh;
 }
 
 
